@@ -1,0 +1,17 @@
+{
+    "name": "test/serialize",
+    "description": "test for jms serialize",
+    "type": "project",
+    "require": {
+        "jms/serializer": "^3.17",
+        "indigophp/doctrine-annotation-autoload": "^0.1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "navid shokri",
+            "email": "navid.pdp11@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha"
+}
